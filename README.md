@@ -1,6 +1,8 @@
-# Demo:
+## 🎥 Watch Our Robot Navigation Demo
 
+[▶️ Click here to watch the warehouse robot navigation demonstration](https://github.com/Hamna12/warehouse-control-navigation/blob/main/warehouse_navigation_demo.mp4)
 
+---
 
 # Warehouse Robot Control & Navigation
 
