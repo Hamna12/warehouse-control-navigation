@@ -1,0 +1,15 @@
+{
+  "map": "/home/hmna/Downloads/isaac-codex/warehouse_map__n2duzc9/map.yaml",
+  "waypoints": [
+    {
+      "x": 0.0,
+      "y": 2.0,
+      "yaw": 1.5707963267948966
+    },
+    {
+      "x": 0.0,
+      "y": 0.3,
+      "yaw": -1.5707963267948966
+    }
+  ]
+}

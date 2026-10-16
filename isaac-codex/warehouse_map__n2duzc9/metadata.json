@@ -1,0 +1,17 @@
+{
+  "stage": "/home/hmna/Downloads/Team_Warehouse_MobilityGen.usd",
+  "map_yaml": "/home/hmna/Downloads/isaac-codex/warehouse_map__n2duzc9/map.yaml",
+  "method": "conservative world-axis-aligned collider bounds",
+  "height_band_m": [
+    0.05,
+    1.5
+  ],
+  "resolution": 0.05,
+  "dimensions": [
+    1284,
+    1464
+  ],
+  "colliders_rasterized": 4422,
+  "free_percent": 81.37,
+  "timeline_playing": false
+}

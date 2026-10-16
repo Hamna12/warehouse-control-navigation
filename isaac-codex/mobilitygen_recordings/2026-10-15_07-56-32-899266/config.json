@@ -1,0 +1,5 @@
+{
+  "scenario_type": "RandomPathFollowingScenario",
+  "robot_type": "CarterRobot",
+  "scene_usd": "/home/hmna/Downloads/Team_Warehouse_MobilityGen.usd"
+}

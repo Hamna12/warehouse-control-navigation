@@ -1,0 +1,25 @@
+{
+  "camera": "/World/robot/chassis_link/chase_camera",
+  "ops": [
+    [
+      "xformOp:translate",
+      "(-2.8561629266315287, 2.006790173047605, 1.3779683674640875)"
+    ],
+    [
+      "xformOp:rotateZ",
+      "-149.0613250732422"
+    ],
+    [
+      "xformOp:rotateY",
+      "60.01283645629883"
+    ],
+    [
+      "xformOp:rotateX",
+      "65.34371948242188"
+    ],
+    [
+      "xformOp:scale",
+      "(1, 1, 1)"
+    ]
+  ]
+}

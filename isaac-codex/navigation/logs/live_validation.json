@@ -1,0 +1,64 @@
+{
+  "single_goal": {
+    "state": "SUCCEEDED",
+    "goal": {
+      "x": -0.008163422346115112,
+      "y": 1.500600231694989,
+      "yaw": 1.57079632679
+    },
+    "final_pose": {
+      "x": -0.0022447919473052025,
+      "y": 1.357689380645752,
+      "yaw": 1.6121273777173064
+    },
+    "position_error_m": 0.1430333581141648,
+    "completed": 1
+  },
+  "only_control_callback": [
+    "warehouse_control_navigation"
+  ],
+  "emergency_stop": {
+    "state": "ESTOP",
+    "command": [
+      0.0,
+      0.0
+    ],
+    "manual_command_rejected": true
+  },
+  "start_without_mobilitygen_scenario": {
+    "passed": true,
+    "note": "Existing loaded stage; does not simulate a full system reboot"
+  },
+  "map_click": {
+    "screen_center_to_world": [
+      0.0,
+      0.0
+    ],
+    "passed": true
+  },
+  "two_waypoints": {
+    "state": "SUCCEEDED",
+    "completed": 2,
+    "final_pose": {
+      "x": 0.012809966690838337,
+      "y": 1.0546666383743286,
+      "yaw": 1.6197344664227575
+    }
+  },
+  "stop_recovery": {
+    "valid_before": false,
+    "valid_after": true,
+    "estop_remained_latched": true,
+    "command": [
+      0.0,
+      0.0
+    ]
+  },
+  "automatic_stop_play_recovery": {
+    "valid": true,
+    "state": "READY",
+    "callbacks": [
+      "warehouse_control_navigation"
+    ]
+  }
+}
